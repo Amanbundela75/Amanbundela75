@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amanbundela75 👋</h1>
 
 <p align="center">
-  <em>A passionate developer from Gwalior</em>
+  <em>The Code-Driven Visionary with a Nation-Building Mission from Gwalior, Madhya Pradesh, India</em>
 </p>
 
 ---
