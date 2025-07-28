@@ -61,7 +61,9 @@ I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a vision
 
 ---
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Amanbundela75?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" /> </p> <!-- Optional custom badges --> <p align="center"> <img src="https://img.shields.io/badge/Problems%20Solved-150%2B-blue?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Daily%20Streak-50%2B%20Days-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Favorite%20Topics-DSA%2C%20Recursion%2C%20Graph-brightgreen?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/aman_bundela_75?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" /> </p>  
+<p align="center"> <img width="1366" height="514" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/a3598e80-0ff1-49aa-9fdd-e4632e0ba969" /> </p> 
+<p align="center"> <img width="1366" height="546" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/96454ac6-f71c-4853-9566-5f32794fd367" /> </p> 
 
 ---
 ### 🧠 Currently Exploring
