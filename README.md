@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science undergrad, explorer of AI/ML, and a visionary builder passionate about solving real-world problems through technology. Whether it's personalized job-matching platforms or virtual reality innovations, I thrive at the intersection of code and impact.
+I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a visionary builder passionate about solving real-world problems through technology. Whether it's personalized job-matching platforms or virtual reality innovations, I thrive at the intersection of code and impact.
 
 - 🔭 I’m currently working on:
   - `Smart Competency Diagnostic & Candidate Profile Score Calculator` – A personalized employment platform powered by AI/ML.
