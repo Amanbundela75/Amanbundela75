@@ -51,7 +51,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 You can find me on the following platforms. Let's connect!
 
 <p align="left">
-<a href="[Your LinkedIn URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amanbundela75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
 <a href="[Your Twitter URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
 <a href="[Your Personal Website URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Your Website" height="30" width="40" /></a>
 </p>
