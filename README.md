@@ -40,7 +40,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
-| **Project 1** | LMS-Plateform.                                          | [Link to Repo/Demo](https://github.com/your-username/your-repo) |
+| **Project 1** | LMS-Plateform.                                          | [Link to Repo/Demo](https://github.com/Amanbundela75/LMS-Plateform) |
 | **Project 2** | Working On.                                             | [Link to Repo/Demo](https://github.com/your-username/your-repo) |
 | **Project 3** | working On                                              | [Link to Repo/Demo](https://github.com/your-username/your-repo) |
 
