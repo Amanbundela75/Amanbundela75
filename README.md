@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amanbundela75 👋</h1>
 
 <p align="center">
-  <em>A passionate developer from [Your Location]</em>
+  <em>A passionate developer from Gwalior</em>
 </p>
 
 ---
@@ -31,7 +31,6 @@ Here are a few technologies I've been working with recently:
   </a>
 </p>
 
-*(This is just an example list. Tell me your skills, and I'll find the right icons for you!)*
 
 ---
 
