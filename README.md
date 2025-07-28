@@ -65,4 +65,3 @@ You can find me on the following platforms. Let's connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbundela75&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-*(Note: These stats will automatically update with your GitHub activity.)*
