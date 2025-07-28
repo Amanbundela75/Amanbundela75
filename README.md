@@ -12,7 +12,6 @@ I'm a Computer Science undergrad, explorer of AI/ML, and a visionary builder pas
 
 - 🔭 I’m currently working on:
   - `Smart Competency Diagnostic & Candidate Profile Score Calculator` – A personalized employment platform powered by AI/ML.
-  - Market research on the **Semiconductor**, **Microprocessor**, and **Neuromorphic Computing** sectors.
   - A PowerPoint presentation series on **Virtual Reality** and **Early Space Education** for school students.
   
 - 🌱 Currently Learning:
