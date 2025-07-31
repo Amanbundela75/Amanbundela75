@@ -129,6 +129,8 @@ I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a vision
 ---
 
 <p align="center"> <img width="1366" height="546" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/96454ac6-f71c-4853-9566-5f32794fd367" /> </p> 
+<p align="center"> <img width="1366" height="589" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129" /> </p>
+
 
 ---
 ### 🧠 Currently Exploring
