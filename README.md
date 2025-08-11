@@ -112,10 +112,8 @@ I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a vision
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
-| **Smart Competency Platform** | An AI-powered job-matching & skill analysis portal with adaptive candidate profiling. | [GitHub Repo](https://github.com/Amanbundela75/Smart-Competency-Platform) *(Demo in progress)* |
-| **LMS-Plateform** | A Learning Management System built for students, educators, and institutions. | [View Repo](https://github.com/Amanbundela75/LMS-Plateform) |
-| **Startup Connect Portal** *(Upcoming)* | A platform bridging innovators and investors, categorizing startups for funding or acquisition. | Coming Soon |
-| **Maha Kumbh 3D Presentation** | A 20+ slide animated religious PowerPoint inspired by Maha Kumbh themes. | Request via Email |
+| **Gesture_Control_System** |Smart Recognition Hand sign tool which will help you to interact with your system without touching it. | Work In Progress |
+| **Smart-LMS** | A Smart Learning Management System built for students, Mentors, and there institute TAP Cell To track student each activity whether it's extra carricular aur academics. | Coming Soon.. |
 
 ---
 
