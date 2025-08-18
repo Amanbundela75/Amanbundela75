@@ -153,8 +153,6 @@ Pitch purposeful ideas — I love structured brainstorming.
 | Smart-LMS (Student + Mentor) | 🛠 Planning | Track academic + extracurricular progression |
 | VR Early Space Modules | 🎓 Drafting | Immersive early astronomy learning experiences |
 
-> Want a deep-dive? Open an Issue with the project name & "Architecture Review".
-
 ---
 
 ## 📊 GitHub Analytics
