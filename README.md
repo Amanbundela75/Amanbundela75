@@ -50,7 +50,6 @@ README Strategy:
 ### 🚀 What I'm Building
 
 - 🧠 Smart Competency Diagnostic & Candidate Profile Scoring Engine  
-  <sub>AI-driven profiling to bridge employability gaps with meaningful metrics.</sub>
 - 🛰 VR + Early Space Education slide & content modules for schools  
 - ✋ Gesture Control System (Human–Computer Interaction sandbox)  
 - 📚 Curated knowledge notes (GATE CSE + ML + Systems) — incoming
