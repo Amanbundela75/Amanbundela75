@@ -192,25 +192,6 @@ Other        ███░░░░░░░░░░░░  12%
   <img width="46%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
 </p>
 
----
-
-## 🧪 Conceptual Architecture (Talent Scoring Engine)
-
-```
-Candidate Input
-  ├─ Resume Parsing Layer
-  │    ├─ Entity Extraction (skills, roles, durations)
-  │    └─ Semantic Embedding (LLM / domain vectors)
-  ├─ Competency Model
-  │    ├─ Weighted feature scoring
-  │    └─ Gap & growth projection
-  ├─ Explanation Module
-  │    └─ Human-readable diagnostics
-  └─ Output: Ranked profile + actionable gap report
-```
-
----
-
 ## 🗣 Philosophy
 
 > Code is infrastructure. Infrastructure scales intent. Intent defines impact.
