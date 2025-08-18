@@ -149,9 +149,7 @@ Pitch purposeful ideas — I love structured brainstorming.
 | Project | Status | Core Value |
 |---------|--------|------------|
 | Gesture Control System | 🚧 Active | Natural interaction interface (touchless HCI sandbox) |
-| Smart Competency Scoring | 🧪 Prototype | AI-driven candidate evaluation & skill gap analytics |
 | Smart-LMS (Student + Mentor) | 🛠 Planning | Track academic + extracurricular progression |
-| VR Early Space Modules | 🎓 Drafting | Immersive early astronomy learning experiences |
 
 ---
 
