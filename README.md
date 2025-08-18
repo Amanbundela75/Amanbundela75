@@ -10,6 +10,8 @@
 
 I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a visionary builder passionate about solving real-world problems through technology. Whether it's personalized job-matching platforms or virtual reality innovations, I thrive at the intersection of code and impact.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on:
   - `Smart Competency Diagnostic & Candidate Profile Score Calculator` – A personalized employment platform powered by AI/ML.
   - A PowerPoint presentation series on **Virtual Reality** and **Early Space Education** for school students.
@@ -30,6 +32,19 @@ I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a vision
 
 - 📫 Reach Me: [aman75bundela@gmail.com](mailto:aman75bundela@gmail.com)
 - ⚡ Fun fact: I believe technology isn't just about code—it's a bridge to building a better nation 🇮🇳
+
+---
+
+## 🎨 Anime Vibes
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Coding Journey with Anime Spirit***
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxY2xsNm8yMTBxMHFiOThobTYxNGw2Mm5kaDg3ZnE5NjlnNXl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcY5zhQ9QDhCw/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpsdWkxOXUwcnZka2dhdHd2MWp6cjMxNHE4czlnbzIyczZ4Y2Q2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif"/>
+</div>
 
 ---
 
@@ -122,13 +137,13 @@ I'm a Pre-Final Year Computer Science undergrad, explorer of AI/ML, and a vision
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amanbundela75&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbundela75&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbundela75&theme=radical" alt="Amanbundela75" />
 </p>
 
 ---
 
 <p align="center"> <img width="1366" height="546" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/96454ac6-f71c-4853-9566-5f32794fd367" /> </p> 
 <p align="center"> <img width="1366" height="589" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129" /> </p>
-
 
 ---
 ### 🧠 Currently Exploring
