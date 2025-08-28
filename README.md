@@ -72,7 +72,7 @@ Pitch purposeful ideas — I love structured brainstorming.
 
 ---
 
-## 🎨 Anime Energy Mode
+## 🎨 DSA/DEV Mode
 
 <p align="center">
   <img src="https://media4.giphy.com/media/vcY5zhQ9QDhCw/giphy.gif" height="160" alt="Focus vibe">
