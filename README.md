@@ -52,7 +52,6 @@ README Strategy:
 - 🧠 Smart Competency Diagnostic & Candidate Profile Scoring Engine  
 - 🛰 VR + Early Space Education slide & content modules for schools  
 - ✋ Gesture Control System (Human–Computer Interaction sandbox)  
-- 📚 Curated knowledge notes (GATE CSE + ML + Systems) — incoming
 
 ### 🌱 Learning Trajectory
 
