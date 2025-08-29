@@ -191,9 +191,9 @@ Other        ███░░░░░░░░░░░░  12%
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/aman_bundela_75/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/aman_bundela_75/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/aman_bundela_75/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="jyot" height="200" width="200" /></a>
+  <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="jyot" height="200" width="200" />
 </p>
 
 ## 🗣 Philosophy
