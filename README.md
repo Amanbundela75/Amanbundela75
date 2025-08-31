@@ -183,8 +183,9 @@ Other        ███░░░░░░░░░░░░  12%
 
 ---
 
-## 🗂 Screens & Previews
+## 🗂 Coding Journey
 
+<h2 align="center">GeeksForGeeks Consistency<h2>
 <p align="center">
   <img width="46%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
 </p>
