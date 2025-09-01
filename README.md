@@ -185,7 +185,7 @@ Other        ███░░░░░░░░░░░░  12%
 
 ## 🗂 Coding Journey
 
-<h2 align="center">GeeksForGeeks Consistency<h2>
+<h2 align="center">200 Days GeeksForGeeks Consistency<h2>
 <p align="center">
   <img width="46%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
 </p>
