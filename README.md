@@ -187,7 +187,7 @@ Other        ███░░░░░░░░░░░░  12%
 
 <h2 align="center">200 Days GeeksForGeeks Consistency<h2>
 <p align="center">
-  <img width="46%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
+  <img width="86%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
 </p>
 <div align="center"> 
 <h2 align="center">Leetcode Consistency Badges<h2>  
