@@ -202,6 +202,14 @@ Other        ███░░░░░░░░░░░░  12%
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="jyot" height="200" width="200" />
 </p>
 
+## 🎭 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanbundela75&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
 ## 🗣 Philosophy
 
 > Code is infrastructure. Infrastructure scales intent. Intent defines impact.
