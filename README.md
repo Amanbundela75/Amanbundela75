@@ -83,6 +83,8 @@ Pitch purposeful ideas — I love structured brainstorming.
 
 ## 🧰 Tech Stack (Curated)
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350"/>
+
 <details open>
 <summary><strong>🌐 Frontend & Experience</strong></summary>
 <p>
@@ -161,6 +163,17 @@ Pitch purposeful ideas — I love structured brainstorming.
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Amanbundela75&theme=radical" alt="Contribution Streak"/>
 </p>
+
+## 👨‍💻 Coding Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanbundela75&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amanbundela75&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amanbundela75&theme=tokyonight" alt="Repos per Language" />
+</div>
 
 <!-- Optional WakaTime / Activity (uncomment if you integrate)
 ### ⏱ Weekly Dev Metrics
