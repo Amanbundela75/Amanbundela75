@@ -147,7 +147,8 @@ Pitch purposeful ideas — I love structured brainstorming.
 | Project | Status | Core Value |
 |---------|--------|------------|
 | Gesture Control System | 🚧 Active | Natural interaction interface (touchless HCI sandbox) |
-| Smart-LMS (Student + Mentor) | 🛠 Planning | Track academic + extracurricular progression |
+| Student-Personal-Space(SPS) | 🚧 Active | Track academic + extracurricular progression |
+| AI-In-Warfare | 🚧 Active | Should machines be allowed to decide who lives or dies? |
 
 ---
 
