@@ -209,6 +209,7 @@ Other        ███░░░░░░░░░░░░  12%
 <h2 align="center">Leetcode Consistency Badges<h2>  
 <p align="center">
   <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" />
 </p>
 <h2 align="center">Monthly Leetcode Badges<h2>  
 <p align="center">
