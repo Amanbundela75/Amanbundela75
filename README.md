@@ -201,9 +201,10 @@ Other        ███░░░░░░░░░░░░  12%
 
 ## 🗂 Coding Journey
 
-<h2 align="center">200 Days GeeksForGeeks Consistency<h2>
+<h2 align="center">250 Days GeeksForGeeks Consistency<h2>
 <p align="center">
-  <img width="86%" alt="Preview 2" src="https://github.com/user-attachments/assets/2a41825e-bea7-4538-a947-8e28972b8129">
+  <img width="86%" alt="Preview 2" src="https://github.com/user-attachments/assets/292403bd-ff44-4a38-936e-436d689dec8f" />
+
 </p>
 <div align="center"> 
 <h2 align="center">Leetcode Consistency Badges<h2>  
