@@ -164,11 +164,10 @@ active_projects = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amanbundela75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Amanbundela75&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbundela75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amanbundela75&theme=tokyo-night&hide_border=true&area=true" />
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=Amanbundela75&show_icons=true&theme=radical&rank_icon=percentile" alt="GitHub stats"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Amanbundela75&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbundela75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amanbundela75&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -559,15 +558,6 @@ Infrastructure
 <br/>
 
 <sub>Found something interesting? ⭐ Star a repo — it helps visibility & momentum!</sub>
-
-<br/><br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanbundela75/Amanbundela75/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanbundela75/Amanbundela75/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanbundela75/Amanbundela75/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br/><br/>
 
