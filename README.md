@@ -218,6 +218,7 @@ Other        ███░░░░░░░░░░░░  12%
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="jyot" height="200" width="200" />
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="jyot" height="200" width="200" />
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" alt="jyot" height="200" width="200" />
 </p>
 
 ## 🎭 Coding Activity
