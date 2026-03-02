@@ -211,6 +211,8 @@ Other        ███░░░░░░░░░░░░  12%
 <p align="center">
   <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" />
   <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="200" width="200" />
+  
 </p>
 <h2 align="center">Monthly Leetcode Badges<h2>  
 <p align="center">
@@ -219,6 +221,10 @@ Other        ███░░░░░░░░░░░░  12%
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="jyot" height="200" width="200" />
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="jyot" height="200" width="200" />
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202512.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2.gif" alt="jyot" height="200" width="200" />
 </p>
 
 ## 🎭 Coding Activity
